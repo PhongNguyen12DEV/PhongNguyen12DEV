@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="assets/chibi-glasses.png" width="170" alt="chibi" />
+<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/chibi_glasses.png" width="170" alt="chibi" />
 &nbsp;&nbsp;&nbsp;
-<img src="assets/student-glasses.png" width="170" alt="student" />
+<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/student_glasses.png" width="170" alt="student" />
 
 <br/><br/>
 
@@ -41,11 +41,11 @@ $ cat about.txt
 > "Just a normal developer" (nghe vậy thôi chứ không bình thường lắm đâu 😏)
 ```
 
-Mình là **Phong**, một đứa mê anime hết nấc và cũng mê luôn việc **vọc vạch công nghệ**: từ phần cứng nhỏ xíu, vi điều khiển đến những ý tưởng điên rồ kiểu "thử làm cái hệ điều hành riêng xem sao". Ngày thì loay hoay với code và mạch, tối thì cày anime. Combo hoàn hảo. 🍥
+Mình là **Phong**, một đứa mê anime hết nấc và cũng mê luôn việc **vọc vạch công nghệ**: từ phần cứng nhỏ xíu, vi điều khiển đến đủ thứ ý tưởng điên rồ. Ngày thì loay hoay với code và mạch, tối thì cày anime. Combo hoàn hảo. 🍥
 
 <div align="center">
 
-<img src="assets/angel-maid.jpg" width="92%" alt="angel maid" />
+<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/angel_maid.jpg" width="92%" alt="angel maid" />
 
 <sub><i>Khi code chạy được ngay lần đầu thì trông nó như thế này. ✨</i></sub>
 
@@ -53,38 +53,13 @@ Mình là **Phong**, một đứa mê anime hết nấc và cũng mê luôn vi�
 
 ---
 
-## 🛠️ Đang vọc những gì?
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🔌 Mini OS trên ESP8266
-
-Dự án "hệ điều hành" tự chế chạy trên **NodeMCU 1.0 (ESP8266)**:
-
-- 📦 Nạp app từ bộ nhớ flash hoặc kéo từ link về, **không cần nạp lại firmware**
-- 🚀 Khởi động là tự quét và chạy các module
-- 🏷️ Cơ chế flag `rwd` (*run with device*) cho module lõi
-- 🧩 App lớn đóng gói thành `.pk`
-- 🖥️ Phần cứng: OLED 0.96" + cảm biến chạm
-
-> Trạng thái: **đang cook** 🔥
-
-</td>
-<td width="40%" valign="top">
-
-### 🎯 Mục tiêu
+## 🎯 Mục tiêu
 
 - ⚙️ Hiểu hệ thống từ gốc đến ngọn
 - 🧪 Thử mọi thứ, hỏng thì sửa
 - 🌐 Làm web, làm tool, làm đồ chơi
 - 📚 Học thêm mỗi ngày
 - 🎌 Tìm cách nhét anime vào mọi project
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -110,8 +85,8 @@ Dự án "hệ điều hành" tự chế chạy trên **NodeMCU 1.0 (ESP8266)**:
 
 <div align="center">
 
-<img src="assets/student-glasses.png" width="130" alt="student" />
-<img src="assets/chibi-glasses.png" width="130" alt="chibi" />
+<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/student_glasses.png" width="130" alt="student" />
+<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/chibi_glasses.png" width="130" alt="chibi" />
 
 </div>
 
