@@ -55,7 +55,7 @@
 <div align="center">
 
 <a href="mailto:aimabtdcdungko@gmail.com"><img src="https://img.shields.io/badge/Email-aimabtdcdungko@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@ilovesylves"><img src="https://img.shields.io/badge/TikTok-@ilovesylves-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@ilovsylvies"><img src="https://img.shields.io/badge/TikTok-@ilovsylvies-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 <a href="https://chuatevechai.netlify.app"><img src="https://img.shields.io/badge/Website-chuatevechai.netlify.app-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <sub>🎓 Nào vào PTIT sẽ đổi tên</sub>
