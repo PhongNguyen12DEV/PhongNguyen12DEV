@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=520&lines=Xin+ch%C3%A0o%2C+t%E1%BB%99i+l%C3%A0+Phong+%F0%9F%91%8B;Wibu+%C3%97+V%E1%BB%8Dc+v%E1%BA%A1ch+c%C3%B4ng+ngh%E1%BB%87+%E2%9C%A8" alt="typing" />
 </a>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/chibi_glasses.jpg" width="150" alt="chibi" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/PhongNguyen12DEV/PhongNguyen12DEV/main/assets/student_glasses.png" width="150" alt="student" />
-
 </div>
 
 ---
